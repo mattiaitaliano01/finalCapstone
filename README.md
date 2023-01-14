@@ -10,7 +10,7 @@ Managing the stock of a store is crucial for the success of a business. With Sho
 
 1. [Introduction](#description)
 2. [Installation](#installation)
-3. [Usage](#usaage)
+3. [Usage](#usage)
 4. [Credits](#credits)
 
 ## Installation:
