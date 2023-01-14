@@ -8,10 +8,10 @@ Managing the stock of a store is crucial for the success of a business. With Sho
 
 ## Table of Contents:
 
-1. [Introduction][#description]
-2. [Installation][#installation]
-3. [Usage][#usaage]
-4. [Credits][#credits]
+1. [Introduction](#description)
+2. [Installation](#installation)
+3. [Usage](#usaage)
+4. [Credits](#credits)
 
 ## Installation:
 
